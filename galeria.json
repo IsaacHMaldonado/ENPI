@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://tusitio.gob.mx/foto1_grande.jpg",
+    "thumbnail": "https://tusitio.gob.mx/foto1_miniatura.jpg",
+    "caption": "Ceremonia de Inauguración"
+  },
+  {
+    "url": "https://tusitio.gob.mx/foto2_grande.jpg",
+    "thumbnail": "", 
+    "caption": "Mesa de trabajo 1"
+  }
+]
