@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Dra. María Elena Álvarez-Buylla",
+    "institucion": "Dirección General - Conahcyt",
+    "resumen": "Investigadora experta en genética molecular y agroecología. Ha publicado más de 100 artículos en revistas indexadas internacionales...",
+    "foto": "https://url-de-su-foto.jpg",
+    "url_pdf": "https://ruta-a-tu-opencms/semblanza_maria.pdf"
+  },
+  {
+    "nombre": "Dr. Gustavo Reyes Terán",
+    "institucion": "Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad",
+    "resumen": "Médico cirujano especialista en infectología. Fundador del Centro de Investigación en Enfermedades Infecciosas (CIENI).",
+    "foto": "",
+    "url_pdf": ""
+  }
+]
