@@ -4,20 +4,23 @@
     "hora": "10:00",
     "titulo": "Conferencia Magistral Inaugural",
     "ponente": "Dr. Gustavo Reyes Terán",
-    "lugar": "Salón A - Planta Baja"
+    "cargo": "Titular de la CCINSHAE",
+    "institucion": "Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad"
   },
   {
     "fecha": "2026-10-25",
     "hora": "09:00",
     "titulo": "Registro y Bienvenida",
     "ponente": "",
-    "lugar": "Vestíbulo Principal"
+    "cargo": "",
+    "institucion": ""
   },
   {
     "fecha": "2026-10-26",
     "hora": "09:30",
     "titulo": "Mesa de Diálogo: Retos de la Investigación",
     "ponente": "Dra. María Elena Álvarez-Buylla",
-    "lugar": "Auditorio Central"
+    "cargo": "Directora General",
+    "institucion": "Conahcyt"
   }
 ]
