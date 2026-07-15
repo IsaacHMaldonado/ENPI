@@ -1,26 +1,38 @@
 [
-  {
-    "fecha": "2026-07-15",
-    "hora": "10:00",
-    "titulo": "Conferencia Magistral Inaugural",
-    "ponente": "Dr. Gustavo Reyes Terán",
-    "cargo": "Titular de la CCINSHAE",
-    "institucion": "Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad"
-  },
-  {
-    "fecha": "2026-07-15",
-    "hora": "12:00",
-    "titulo": "Registro y Bienvenida",
-    "ponente": "",
-    "cargo": "",
-    "institucion": ""
-  },
-  {
-    "fecha": "2026-07-15",
-    "hora": "12:50",
-    "titulo": "Mesa de Diálogo: Retos de la Investigación",
-    "ponente": "Dra. María Elena Álvarez-Buylla",
-    "cargo": "Directora General",
-    "institucion": "Conahcyt"
-  }
+    {
+        "fecha": "2026-07-15",
+        "hora": "13:05",
+        "hora_fin": "13:06",
+        "titulo": "Registro y Bienvenida",
+        "ponente": "",
+        "cargo": "",
+        "institucion": ""
+    },
+    {
+        "fecha": "2026-07-15",
+        "hora": "13:06",
+        "hora_fin": "13:07",
+        "titulo": "Conferencia Magistral Inaugural",
+        "ponente": "Dr. Gustavo Reyes Terán",
+        "cargo": "Titular de la CCINSHAE",
+        "institucion": "Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad"
+    },
+    {
+        "fecha": "2026-07-15",
+        "hora": "13:07",
+        "hora_fin": "13:08",
+        "titulo": "Mesa de Diálogo: Retos de la Investigación",
+        "ponente": "Dra. María Elena Álvarez-Buylla",
+        "cargo": "Directora General",
+        "institucion": "Conahcyt"
+    },
+    {
+        "fecha": "2026-10-15",
+        "hora": "13:08",
+        "hora_fin": "13:09",
+        "titulo": "Ceremonia de Clausura",
+        "ponente": "Autoridades",
+        "cargo": "",
+        "institucion": ""
+    }
 ]
