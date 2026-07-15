@@ -1,16 +1,10 @@
 [
-  {
-    "nombre": "Dra. María Elena Álvarez-Buylla",
-    "institucion": "Dirección General - Conahcyt",
-    "resumen": "Investigadora experta en genética molecular y agroecología. Ha publicado más de 100 artículos en revistas indexadas internacionales...",
-    "foto": "https://url-de-su-foto.jpg",
-    "url_pdf": "https://ruta-a-tu-opencms/semblanza_maria.pdf"
-  },
-  {
-    "nombre": "Dr. Gustavo Reyes Terán",
-    "institucion": "Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad",
-    "resumen": "Médico cirujano especialista en infectología. Fundador del Centro de Investigación en Enfermedades Infecciosas (CIENI).",
-    "foto": "",
-    "url_pdf": ""
-  }
+    {
+        "nombre": "Isaac Amauri H. Maldonado",
+        "institucion": "NAW - Hospital Juárez de México",
+        "cargo": "Investigador en ICM - F",
+        "resumen": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "foto": "https:\/\/www.dgpis.salud.gob.mx\/encuentro-9a8f4c2\/img\/thumbs_inves\/img_6a58182cbca74.png",
+        "url_pdf": ""
+    }
 ]
