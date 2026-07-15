@@ -1,8 +1,8 @@
 [
     {
         "fecha": "2026-07-15",
-        "hora": "13:05",
-        "hora_fin": "13:06",
+        "hora": "13:15",
+        "hora_fin": "13:16",
         "titulo": "Registro y Bienvenida",
         "ponente": "",
         "cargo": "",
@@ -10,26 +10,35 @@
     },
     {
         "fecha": "2026-07-15",
-        "hora": "13:06",
-        "hora_fin": "13:07",
-        "titulo": "Conferencia Magistral Inaugural",
-        "ponente": "Dr. Gustavo Reyes Terán",
-        "cargo": "Titular de la CCINSHAE",
-        "institucion": "Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad"
+        "hora": "13:16",
+        "hora_fin": "13:17",
+        "titulo": "Receso",
+        "ponente": "",
+        "cargo": "",
+        "institucion": ""
     },
     {
         "fecha": "2026-07-15",
-        "hora": "13:07",
-        "hora_fin": "13:08",
+        "hora": "13:18",
+        "hora_fin": "13:19",
         "titulo": "Mesa de Diálogo: Retos de la Investigación",
         "ponente": "Dra. María Elena Álvarez-Buylla",
         "cargo": "Directora General",
         "institucion": "Conahcyt"
     },
     {
-        "fecha": "2026-10-15",
-        "hora": "13:08",
-        "hora_fin": "13:09",
+        "fecha": "2026-07-15",
+        "hora": "13:19",
+        "hora_fin": "13:20",
+        "titulo": "Comida",
+        "ponente": "",
+        "cargo": "",
+        "institucion": ""
+    },
+    {
+        "fecha": "2026-07-15",
+        "hora": "13:20",
+        "hora_fin": "13:21",
         "titulo": "Ceremonia de Clausura",
         "ponente": "Autoridades",
         "cargo": "",
