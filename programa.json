@@ -2,8 +2,8 @@
     {
         "fecha": "2026-10-29",
         "hora_inicio": "11:00",
-        "hora_fin": "00:00",
-        "titulo_sesion": "Primera Sesión.",
+        "hora_fin": "12:00",
+        "titulo_sesion": "Sesión I",
         "actividades": [
             {
                 "titulo": "Desarrollo y evaluación interna de una clasificación fisiológica para estimar el riesgo de deterioro materno tras el manejo inicial de la hemorragia posparto.",
