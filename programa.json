@@ -8,7 +8,14 @@
             {
                 "titulo": "La ponencia",
                 "ponente": "Dr. José Carlos Crispin Acuña",
-                "hora": ""
+                "cargo": "ICM - F",
+                "hora": "10:30"
+            },
+            {
+                "titulo": "La ponencia 2",
+                "ponente": "Dra. Florencia Rosetti Sciutto",
+                "cargo": "ICM -D",
+                "hora": "10:40"
             }
         ]
     },
