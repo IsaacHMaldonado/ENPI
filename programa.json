@@ -88,7 +88,7 @@
                 "hora": "12:10"
             },
             {
-                "titulo": "El consumo de una dieta rica en Omega-6 promueve la progresión y metástasis del cáncer de mama a través de la activación del eje HIF-1\/Galectina-1",
+                "titulo": "El consumo de una dieta rica en Omega-6 promueve la progresión y metástasis del cáncer de mama a través de la activación del eje HIF-1\/Galectina-1.",
                 "ponente": "Dra. Sara Huerta Yepez",
                 "cargo": "Investigadora en Ciencias Médicas F",
                 "hora": "12:15"
@@ -110,6 +110,56 @@
                 "ponente": "",
                 "cargo": "",
                 "hora": "12:30"
+            }
+        ]
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "13:00",
+        "hora_fin": "14:00",
+        "titulo_sesion": "Sesión III",
+        "actividades": [
+            {
+                "titulo": "Heterogeneidad clínica y transiciones de la obesidad en México.",
+                "ponente": "Dr. Luis Adrián Soto Mota",
+                "cargo": "Investigador en Ciencias Médicas C",
+                "hora": "13:00"
+            },
+            {
+                "titulo": "Empagliflozina y metformina atenúan el síndrome cardiorreno-metabólico mediante la reducción del estrés oxidativo, la inflamación y la modulación del metabolismo lipídico.",
+                "ponente": "Dr. Horacio Osorio Alonso",
+                "cargo": "Investigador en Ciencias Médicas C",
+                "hora": "13:05"
+            },
+            {
+                "titulo": "Asociación entre el tejido adiposo visceral estimado y la incidencia de eventos cardiovasculares en personas sin diabetes: análisis poblacional de 15 cohortes prospectivas de 7 países de América Latina.",
+                "ponente": "Dr. Neftali Eduardo Antonio Villa",
+                "cargo": "Investigador en Ciencias Médicas B",
+                "hora": "13:10"
+            },
+            {
+                "titulo": "Terapia hormonal menopáusica oral y transdérmica asociada con menor resistencia a la insulina y trayectorias cardiometabólicas más favorables a tres años: cohorte de práctica clínica.",
+                "ponente": "Dr. Enrique Reyes Muñoz",
+                "cargo": "Investigador en Ciencias Médicas E",
+                "hora": "13:15"
+            },
+            {
+                "titulo": "Impacto de un alimento funcional elaborado con chapulín y amaranto sobre la microbiota intestinal y la salud metabólica en niños y niñas de una comunidad semirrural: estudio cuasiexperimental antes-después.",
+                "ponente": "Dra. Miriam Erandi Reyna Fabian",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "13:20"
+            },
+            {
+                "titulo": "Los criterios diagnósticos de disbetalipoproteinemia no identifican a los portadores mexicanos del genotipo APOE ε2\/ε2",
+                "ponente": "Dr. Daniel Benjamín Elías López",
+                "cargo": "Investigador en Ciencias Médicas B",
+                "hora": "13:25"
+            },
+            {
+                "titulo": "Discusión General",
+                "ponente": "",
+                "cargo": "",
+                "hora": "13:30"
             }
         ]
     }
