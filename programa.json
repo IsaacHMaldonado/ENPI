@@ -62,5 +62,49 @@
         "hora_fin": "11:00",
         "titulo_sesion": "Ceremonia de Inauguración",
         "actividades": []
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "12:00",
+        "hora_fin": "13:00",
+        "titulo_sesion": "Sesión II",
+        "actividades": [
+            {
+                "titulo": "Un nicho tumoral quiescente como posible reservorio de resistencia terapéutica en esferoides de cáncer de mama.",
+                "ponente": "Dr. Aaron Vázquez Jiménez",
+                "cargo": "Investigador en Ciencias Médicas C",
+                "hora": "12:30"
+            },
+            {
+                "titulo": "Exposición a aflatoxina B1 y riesgo de carcinoma hepatocelular en cinco estados mexicanos: evaluación de riesgo probabilística basada en un biomarcador.",
+                "ponente": "Dra. Paulina Farias Serra",
+                "cargo": "Investigadora en Ciencias Médicas E",
+                "hora": "12:35"
+            },
+            {
+                "titulo": "Del análisis in silico a la validación funcional: BUB1 como nueva diana terapéutica en sarcomas.",
+                "ponente": "Dr. Eloy Andrés Pérez Yépez",
+                "cargo": "Investigador en Ciencias Médicas D",
+                "hora": "12:40"
+            },
+            {
+                "titulo": "El consumo de una dieta rica en Omega-6 promueve la progresión y metástasis del cáncer de mama a través de la activación del eje HIF-1\/Galectina-1",
+                "ponente": "Dra. Sara Huerta Yepez",
+                "cargo": "Investigadora en Ciencias Médicas F",
+                "hora": "12:45"
+            },
+            {
+                "titulo": "CAR-T académicas: innovación mexicana para el cáncer gástrico.",
+                "ponente": "Dra. Elizabeth Ortiz Sánchez",
+                "cargo": "Investigadora en Ciencias Médicas E",
+                "hora": "12:50"
+            },
+            {
+                "titulo": "Enriquecimiento de subtipos moleculares de mal pronóstico y baja supervivencia de la leucemia linfoblástica aguda en población mexicana: estudio multicéntrico.",
+                "ponente": "Dra. Silvia Jiménez Morales",
+                "cargo": "Investigadora en Ciencias Médicas E",
+                "hora": "12:55"
+            }
+        ]
     }
 ]
