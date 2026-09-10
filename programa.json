@@ -326,5 +326,12 @@
         "hora_fin": "23:00",
         "titulo_sesion": "Cena de premiación a las \"Personas Investigadoras Eméritas\"",
         "actividades": []
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "06:00",
+        "hora_fin": "08:30",
+        "titulo_sesion": "Desayuno (Restaurante del Hotel: Tita Comedor Mexicano)",
+        "actividades": []
     }
 ]
