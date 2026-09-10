@@ -167,7 +167,7 @@
         "fecha": "2026-10-29",
         "hora_inicio": "14:30",
         "hora_fin": "16:30",
-        "titulo_sesion": "Receso para alimentos",
+        "titulo_sesion": "Receso para alimentos.",
         "actividades": []
     },
     {
@@ -324,7 +324,7 @@
         "fecha": "2026-10-29",
         "hora_inicio": "20:30",
         "hora_fin": "23:00",
-        "titulo_sesion": "Cena de premiación a las \"Personas Investigadoras Eméritas\"",
+        "titulo_sesion": "Cena de Premiación a las \"Personas Investigadoras Eméritas\"",
         "actividades": []
     },
     {
@@ -377,5 +377,50 @@
                 "hora": "10:00"
             }
         ]
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "11:00",
+        "hora_fin": "12:00",
+        "titulo_sesion": "Sesión VIII - Pediatría Oncológica",
+        "actividades": [
+            {
+                "titulo": "Secuenciación por nanoporos guiada por CRISPR\/Cas9 para la caracterización genómica y epigenética de los genes del HLA clase I en tumores sólidos pediátricos.",
+                "ponente": "Dr. Javier Tadeo Granados Riverón",
+                "cargo": "Investigador en Ciencias Médicas D",
+                "hora": "11:00"
+            },
+            {
+                "titulo": "Determinación de variantes patogénicas y su asociación con los criterios de sospecha en pacientes pediátricos con síndromes de cáncer hereditario.",
+                "ponente": "Dra. Emiy Yokoyama Rebollar",
+                "cargo": "Investigadora con distinción SNII - I",
+                "hora": "11:07"
+            },
+            {
+                "titulo": "Identificación de variantes genéticas clínicamente relevantes y asociación con supervivencia  en niños mexicanos con leucemia linfoblástica aguda de precursores B.",
+                "ponente": "Dra. Silvia Jiménez Morales",
+                "cargo": "Investigadora en Ciencias Médicas E",
+                "hora": "11:14"
+            },
+            {
+                "titulo": "De la genómica a la salud pública: AKNA como potencial biomarcador pronóstico en leucemia linfoblástica aguda pediátrica.",
+                "ponente": "Dr. Vicente Madrid Marina",
+                "cargo": "Investigador Emérito en Ciencias Médicas",
+                "hora": "11:21"
+            },
+            {
+                "titulo": "Discusión General.",
+                "ponente": "",
+                "cargo": "",
+                "hora": "10:30"
+            }
+        ]
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "12:30",
+        "hora_fin": "13:30",
+        "titulo_sesion": "Sesión IX - Psiquiatría y Problemas sociales",
+        "actividades": []
     }
 ]
