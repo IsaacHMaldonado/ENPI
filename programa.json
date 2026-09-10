@@ -3,7 +3,7 @@
         "fecha": "2026-10-29",
         "hora_inicio": "11:00",
         "hora_fin": "12:00",
-        "titulo_sesion": "Sesión I",
+        "titulo_sesion": "Sesión I - Ginecología y Obstetricia",
         "actividades": [
             {
                 "titulo": "Desarrollo y evaluación interna de una clasificación fisiológica para estimar el riesgo de deterioro materno tras el manejo inicial de la hemorragia posparto.",
@@ -42,7 +42,7 @@
                 "hora": "11:25"
             },
             {
-                "titulo": "Discusión General",
+                "titulo": "Discusión General.",
                 "ponente": "",
                 "cargo": "",
                 "hora": "11:30"
@@ -53,114 +53,278 @@
         "fecha": "2026-10-29",
         "hora_inicio": "09:00",
         "hora_fin": "10:30",
-        "titulo_sesion": "Registro de participantes",
+        "titulo_sesion": "Registro de participantes.",
         "actividades": []
     },
     {
         "fecha": "2026-10-29",
         "hora_inicio": "10:30",
         "hora_fin": "11:00",
-        "titulo_sesion": "Ceremonia de Inauguración",
+        "titulo_sesion": "Ceremonia de Inauguración.",
         "actividades": []
     },
     {
         "fecha": "2026-10-29",
-        "hora_inicio": "12:00",
-        "hora_fin": "13:00",
-        "titulo_sesion": "Sesión II",
+        "hora_inicio": "12:10",
+        "hora_fin": "13:10",
+        "titulo_sesion": "Sesión II - Oncología",
         "actividades": [
             {
                 "titulo": "Un nicho tumoral quiescente como posible reservorio de resistencia terapéutica en esferoides de cáncer de mama.",
                 "ponente": "Dr. Aaron Vázquez Jiménez",
                 "cargo": "Investigador en Ciencias Médicas C",
-                "hora": "12:00"
+                "hora": "12:10"
             },
             {
                 "titulo": "Exposición a aflatoxina B1 y riesgo de carcinoma hepatocelular en cinco estados mexicanos: evaluación de riesgo probabilística basada en un biomarcador.",
                 "ponente": "Dra. Paulina Farias Serra",
                 "cargo": "Investigadora en Ciencias Médicas E",
-                "hora": "12:05"
+                "hora": "12:15"
             },
             {
                 "titulo": "Del análisis in silico a la validación funcional: BUB1 como nueva diana terapéutica en sarcomas.",
                 "ponente": "Dr. Eloy Andrés Pérez Yépez",
                 "cargo": "Investigador en Ciencias Médicas D",
-                "hora": "12:10"
+                "hora": "12:20"
             },
             {
                 "titulo": "El consumo de una dieta rica en Omega-6 promueve la progresión y metástasis del cáncer de mama a través de la activación del eje HIF-1\/Galectina-1.",
                 "ponente": "Dra. Sara Huerta Yepez",
                 "cargo": "Investigadora en Ciencias Médicas F",
-                "hora": "12:15"
+                "hora": "12:25"
             },
             {
                 "titulo": "CAR-T académicas: innovación mexicana para el cáncer gástrico.",
                 "ponente": "Dra. Elizabeth Ortiz Sánchez",
                 "cargo": "Investigadora en Ciencias Médicas E",
-                "hora": "12:20"
+                "hora": "12:30"
             },
             {
                 "titulo": "Enriquecimiento de subtipos moleculares de mal pronóstico y baja supervivencia de la leucemia linfoblástica aguda en población mexicana: estudio multicéntrico.",
                 "ponente": "Dra. Silvia Jiménez Morales",
                 "cargo": "Investigadora en Ciencias Médicas E",
-                "hora": "12:25"
+                "hora": "12:35"
             },
             {
-                "titulo": "Discusión General",
+                "titulo": "Discusión General.",
                 "ponente": "",
                 "cargo": "",
-                "hora": "12:30"
+                "hora": "12:40"
             }
         ]
     },
     {
         "fecha": "2026-10-29",
-        "hora_inicio": "13:00",
-        "hora_fin": "14:00",
-        "titulo_sesion": "Sesión III",
+        "hora_inicio": "13:20",
+        "hora_fin": "14:20",
+        "titulo_sesion": "Sesión III - Síndrome Metabólico",
         "actividades": [
             {
                 "titulo": "Heterogeneidad clínica y transiciones de la obesidad en México.",
                 "ponente": "Dr. Luis Adrián Soto Mota",
                 "cargo": "Investigador en Ciencias Médicas C",
-                "hora": "13:00"
+                "hora": "13:20"
             },
             {
                 "titulo": "Empagliflozina y metformina atenúan el síndrome cardiorreno-metabólico mediante la reducción del estrés oxidativo, la inflamación y la modulación del metabolismo lipídico.",
                 "ponente": "Dr. Horacio Osorio Alonso",
                 "cargo": "Investigador en Ciencias Médicas C",
-                "hora": "13:05"
+                "hora": "13:25"
             },
             {
                 "titulo": "Asociación entre el tejido adiposo visceral estimado y la incidencia de eventos cardiovasculares en personas sin diabetes: análisis poblacional de 15 cohortes prospectivas de 7 países de América Latina.",
                 "ponente": "Dr. Neftali Eduardo Antonio Villa",
                 "cargo": "Investigador en Ciencias Médicas B",
-                "hora": "13:10"
+                "hora": "13:30"
             },
             {
                 "titulo": "Terapia hormonal menopáusica oral y transdérmica asociada con menor resistencia a la insulina y trayectorias cardiometabólicas más favorables a tres años: cohorte de práctica clínica.",
                 "ponente": "Dr. Enrique Reyes Muñoz",
                 "cargo": "Investigador en Ciencias Médicas E",
-                "hora": "13:15"
+                "hora": "13:35"
             },
             {
                 "titulo": "Impacto de un alimento funcional elaborado con chapulín y amaranto sobre la microbiota intestinal y la salud metabólica en niños y niñas de una comunidad semirrural: estudio cuasiexperimental antes-después.",
                 "ponente": "Dra. Miriam Erandi Reyna Fabian",
                 "cargo": "Investigadora en Ciencias Médicas C",
-                "hora": "13:20"
+                "hora": "13:40"
             },
             {
                 "titulo": "Los criterios diagnósticos de disbetalipoproteinemia no identifican a los portadores mexicanos del genotipo APOE ε2\/ε2",
                 "ponente": "Dr. Daniel Benjamín Elías López",
                 "cargo": "Investigador en Ciencias Médicas B",
-                "hora": "13:25"
+                "hora": "13:45"
             },
             {
-                "titulo": "Discusión General",
+                "titulo": "Discusión General.",
                 "ponente": "",
                 "cargo": "",
-                "hora": "13:30"
+                "hora": "13:50"
             }
         ]
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "14:30",
+        "hora_fin": "16:30",
+        "titulo_sesion": "Receso para alimentos",
+        "actividades": []
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "16:30",
+        "hora_fin": "17:30",
+        "titulo_sesion": "Sesión IV - Neurología",
+        "actividades": [
+            {
+                "titulo": "La deficiencia de la proteína Anti-envejecimiento KLOTHO, deteriora la integridad estructural del hipocampo y aumenta la hiperexcitabilidad de las redes hipocampales, lo que contribuye al deterioro cognitivo.",
+                "ponente": "Dr. Ivan Mijail Alquisiras Burgos",
+                "cargo": "Investigador en Ciencias Médicas C",
+                "hora": "16:30"
+            },
+            {
+                "titulo": "Los medios condicionados tumorales modulan diferencialmente la pluripotencia, la diferenciación neuronal y la migración de células troncales embrionarias humanas.",
+                "ponente": "Dr. Adolfo López Ornelas",
+                "cargo": "Investigador en Ciencias Médicas D",
+                "hora": "16:35"
+            },
+            {
+                "titulo": "Evidencia preliminar de factibilidad y de desempeño interno de una regla predictiva longitudinal interpretable de independencia funcional en lesión medular integrando datos clínicos de rutina.",
+                "ponente": "Dr. Alberto Isaac Pérez Sanpablo",
+                "cargo": "Investigador en Ciencias Médicas C",
+                "hora": "16:40"
+            },
+            {
+                "titulo": "Cambios moleculares cerebrales vinculados con hiposensibilidad cerebral a las hormonas tiroideas, y su impacto en el desarrollo físico y sensoriomotor de crías de rata Wistar con hipotiroidismo congénito.",
+                "ponente": "Dra. Karla Sánchez Huerta",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "16:45"
+            },
+            {
+                "titulo": "Heterogeneidad interindividual y patrones de conectividad funcional cerebral en pacientes con primer episodio de psicosis.",
+                "ponente": "Dr. Luis Felipe Rivera Chávez",
+                "cargo": "Investigador en Ciencias Médicas B",
+                "hora": "16:50"
+            },
+            {
+                "titulo": "Mifepristona reduce la autorrenovación de células troncales de glioblastoma y potencia la respuesta a temozolomida.",
+                "ponente": "Dra. Patricia García López",
+                "cargo": "Investigador en Ciencias Médicas E",
+                "hora": "16:55"
+            },
+            {
+                "titulo": "Discusión General.",
+                "ponente": "",
+                "cargo": "",
+                "hora": "17:00"
+            }
+        ]
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "17:40",
+        "hora_fin": "18:40",
+        "titulo_sesion": "Sesión V - Mecanismos Moleculares de Enfermedad",
+        "actividades": [
+            {
+                "titulo": "Activación de la vía p38-COX-2 inducida por material particulado (PM10) mediante estrés oxidante en células de epitelio gástrico.",
+                "ponente": "Dra. Ericka Marel Quezada Maldonado",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "17:40"
+            },
+            {
+                "titulo": "La reprogramación epigenética inducida por TNF identifica biomarcadores predictivos de respuesta terapéutica en artritis reumatoide.",
+                "ponente": "Dra. Iris Karina Madera Salcedo",
+                "cargo": "Investigadora en Ciencias Médicas D",
+                "hora": "17:45"
+            },
+            {
+                "titulo": "Helios favorece la diferenciación efectora terminal en células CD8.",
+                "ponente": "Dra. Florencia Rosetti Sciutto",
+                "cargo": "Investigador en Ciencias Médicas E",
+                "hora": "17:50"
+            },
+            {
+                "titulo": "La deficiencia de SerpinA3k preserva la expresión de PPARα\/CYP4A14 y atenúa la fibrosis renal.",
+                "ponente": "Dra. Norma Araceli Bobadilla Sandoval",
+                "cargo": "Investigadora en Ciencias Médicas F",
+                "hora": "17:55"
+            },
+            {
+                "titulo": "Ensamblado de novo del genoma telómero a telómero de Mestizos Mexicanos mediante secuenciación de lecturas largas y ultra-largas.",
+                "ponente": "Dr. Alfredo Hidalgo Miranda",
+                "cargo": "Investigador en Ciencias Médicas F",
+                "hora": "18:00"
+            },
+            {
+                "titulo": "La disfunción de p63 se asocia con compromiso tímico y alteraciones inmunológicas en ratón y humanos.",
+                "ponente": "Dra. Abigail Morales Sánchez",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "18:05"
+            },
+            {
+                "titulo": "Discusión General.",
+                "ponente": "",
+                "cargo": "",
+                "hora": "18:10"
+            }
+        ]
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "18:50",
+        "hora_fin": "19:50",
+        "titulo_sesion": "Sesión VI - Infecciones",
+        "actividades": [
+            {
+                "titulo": "Plataforma de membranas electrohiladas para la liberación transdérmica sostenida de antibióticos. Prueba de concepto con rifampicina y meropenem.",
+                "ponente": "Dra. Andy Dorey Ruiz Huerta",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "18:50"
+            },
+            {
+                "titulo": "Distancia de Mahalanobis para la construcción de un grupo de control emparejado: Impacto de una intervención dirigida a cuidadores sobre las Infecciones Asociadas a la Atención de la Salud (IAAS).",
+                "ponente": "Dra. Ana Estela Gamiño Arroyo",
+                "cargo": "Investigadora con distinción SNII - I",
+                "hora": "18:55"
+            },
+            {
+                "titulo": "Índices SII y SIRI como marcadores de inflamación y su asociación con tuberculosis pulmonar activa.",
+                "ponente": "Dra. Leslie Chávez Galán",
+                "cargo": "Investigadora en Ciencias Médicas D",
+                "hora": "19:00"
+            },
+            {
+                "titulo": "Diseminación de subtipos no B del virus de la inmunodeficiencia humana tipo 1 en la Ciudad de México.",
+                "ponente": "Dra. Claudia García Morales",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "19:05"
+            },
+            {
+                "titulo": "La detección de especies de Helicobacter y herpesvirus en biopsias gástricas pediátricas revela patrones de asociación microbiana con la inflamación gástrica severa.",
+                "ponente": "Dr. Ezequiel Moises Fuentes Panana",
+                "cargo": "Investigador en Ciencias Médicas F",
+                "hora": "19:10"
+            },
+            {
+                "titulo": "Tuberculosis latente en el cerebro, evidencia molecular en material de autopsia y en un modelo murino.",
+                "ponente": "Dr. Rogelio Enrique Hernández Pando",
+                "cargo": "Investigador en Ciencias Médicas F",
+                "hora": "19:15"
+            },
+            {
+                "titulo": "Discusión General.",
+                "ponente": "",
+                "cargo": "",
+                "hora": "19:20"
+            }
+        ]
+    },
+    {
+        "fecha": "2026-10-29",
+        "hora_inicio": "20:30",
+        "hora_fin": "23:00",
+        "titulo_sesion": "Cena de premiación a las \"Personas Investigadoras Eméritas\"",
+        "actividades": []
     }
 ]
