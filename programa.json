@@ -422,5 +422,19 @@
         "hora_fin": "13:30",
         "titulo_sesion": "Sesión IX - Psiquiatría y Problemas sociales",
         "actividades": []
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "13:30",
+        "hora_fin": "15:00",
+        "titulo_sesion": "Reunión de Directores Generales con el Secretario de Salud",
+        "actividades": [
+            {
+                "titulo": "Sede: Instituto Nacional de Salud Pública",
+                "ponente": "",
+                "cargo": "",
+                "hora": "13:30"
+            }
+        ]
     }
 ]
