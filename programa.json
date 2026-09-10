@@ -333,5 +333,49 @@
         "hora_fin": "08:30",
         "titulo_sesion": "Desayuno (Restaurante del Hotel: Tita Comedor Mexicano)",
         "actividades": []
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "09:30",
+        "hora_fin": "10:30",
+        "titulo_sesion": "Sesión VII - Terapias y Vacunas",
+        "actividades": [
+            {
+                "titulo": "Desarrollo de células CAR T reguladoras dirigidas a islotes pancreáticos.",
+                "ponente": "Dr. José Carlos Crispin Acuña",
+                "cargo": "Investigador en Ciencias Médicas F",
+                "hora": "09:30"
+            },
+            {
+                "titulo": "Implementación de un Modelo Inhalatorio de Precisión InExpose® para Determinar los Daños a la Salud por Exposición Controlada a Humo De Leña.",
+                "ponente": "Dra. Patricia Segura Medina",
+                "cargo": "Investigadora en Ciencias Médicas E",
+                "hora": "09:36"
+            },
+            {
+                "titulo": "Histerectomía con y sin conservación ovárica y mortalidad en mujeres mexicanas: Resultados del Estudio de Salud de las Maestras.",
+                "ponente": "Dr. Martin Lajous Loaeza",
+                "cargo": "Investigador en Ciencias Médicas E",
+                "hora": "09:42"
+            },
+            {
+                "titulo": "Respuestas celulares tempranas a nanopartículas biogénicas de selenio no detectadas mediante ensayos convencionales de biocompatibilidad: aporte de la evaluación ultraestructural.",
+                "ponente": "Dra. María Cristina Velasquillo Martínez",
+                "cargo": "Investigadora en Ciencias Médicas F",
+                "hora": "09:48"
+            },
+            {
+                "titulo": "Vacunación infantil en México: coberturas, desigualdades y experiencias locales en un estudio mixto secuencial explicativo.",
+                "ponente": "Dra. Norma Piedad Mongua Rodríguez",
+                "cargo": "Investigadora en Ciencias Médicas B",
+                "hora": "09:54"
+            },
+            {
+                "titulo": "Discusión General.",
+                "ponente": "",
+                "cargo": "",
+                "hora": "10:00"
+            }
+        ]
     }
 ]
