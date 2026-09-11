@@ -330,7 +330,7 @@
     {
         "fecha": "2026-10-30",
         "hora_inicio": "06:00",
-        "hora_fin": "08:30",
+        "hora_fin": "09:00",
         "titulo_sesion": "Desayuno (Restaurante del Hotel: Tita Comedor Mexicano)",
         "actividades": []
     },
@@ -436,5 +436,33 @@
                 "hora": "13:30"
             }
         ]
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "13:30",
+        "hora_fin": "15:00",
+        "titulo_sesion": "Traslado al Instituto Nacional de Salud Pública",
+        "actividades": []
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "15:15",
+        "hora_fin": "16:00",
+        "titulo_sesion": "Premiación",
+        "actividades": []
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "16:00",
+        "hora_fin": "16:15",
+        "titulo_sesion": "Ceremonia de Clausura",
+        "actividades": []
+    },
+    {
+        "fecha": "2026-10-30",
+        "hora_inicio": "16:15",
+        "hora_fin": "16:30",
+        "titulo_sesion": "Fotografía Oficial del ENPI 2026",
+        "actividades": []
     }
 ]
