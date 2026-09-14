@@ -42,7 +42,7 @@
                 "hora": "11:25"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "11:30"
@@ -53,14 +53,14 @@
         "fecha": "2026-10-29",
         "hora_inicio": "09:00",
         "hora_fin": "10:30",
-        "titulo_sesion": "Registro de participantes.",
+        "titulo_sesion": "Registro de participantes",
         "actividades": []
     },
     {
         "fecha": "2026-10-29",
         "hora_inicio": "10:30",
         "hora_fin": "11:00",
-        "titulo_sesion": "Ceremonia de Inauguración.",
+        "titulo_sesion": "Ceremonia de Inauguración",
         "actividades": []
     },
     {
@@ -106,7 +106,7 @@
                 "hora": "12:35"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "12:40"
@@ -156,7 +156,7 @@
                 "hora": "13:45"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "13:50"
@@ -167,7 +167,7 @@
         "fecha": "2026-10-29",
         "hora_inicio": "14:30",
         "hora_fin": "16:30",
-        "titulo_sesion": "Receso para alimentos.",
+        "titulo_sesion": "Receso para alimentos",
         "actividades": []
     },
     {
@@ -213,7 +213,7 @@
                 "hora": "16:55"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "17:00"
@@ -263,7 +263,7 @@
                 "hora": "18:05"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "18:10"
@@ -313,7 +313,7 @@
                 "hora": "19:15"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "19:20"
@@ -371,7 +371,7 @@
                 "hora": "09:54"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "10:00"
@@ -409,7 +409,7 @@
                 "hora": "11:21"
             },
             {
-                "titulo": "Discusión General.",
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
                 "hora": "10:30"
@@ -421,19 +421,42 @@
         "hora_inicio": "12:30",
         "hora_fin": "13:30",
         "titulo_sesion": "Sesión IX - Psiquiatría y Problemas sociales",
-        "actividades": []
-    },
-    {
-        "fecha": "2026-10-30",
-        "hora_inicio": "13:30",
-        "hora_fin": "15:00",
-        "titulo_sesion": "Reunión de Directores Generales con el Secretario de Salud",
         "actividades": [
             {
-                "titulo": "Sede: Instituto Nacional de Salud Pública",
+                "titulo": "Psiquiatría paliativa en debate: actitudes ante el cuidado y la muerte asistida en el trastorno mental grave.",
+                "ponente": "Dra. Shoshana Berenzon Gorn",
+                "cargo": "Investigadora en Ciencias Médicas E",
+                "hora": "12:30"
+            },
+            {
+                "titulo": "Violencia de género reportada al inicio del embarazo y desenlaces perinatales adversos: cohorte prospectiva en la Ciudad de México.",
+                "ponente": "Dra. Irma Eloisa Monroy Muñoz",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "12:36"
+            },
+            {
+                "titulo": "Diferencias de género y factores asociados en la normalización de la violencia sexual en adolescentes mexicanos.",
+                "ponente": "Dra. Abigail Casas Muñoz",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "12:42"
+            },
+            {
+                "titulo": "Impacto de la Pensión para el Bienestar de las Personas Adultas Mayores sobre la inseguridad alimentaria en México: evidencia de la Encuesta Nacional de Salud y Nutrición (ENSANUT) 2021, 2023 y 2024.",
+                "ponente": "Dra. Miriam López Teros",
+                "cargo": "Investigadora en Ciencias Médicas B",
+                "hora": "12:48"
+            },
+            {
+                "titulo": "Evaluación de la disminución del flujo en la arteria ulnar por ultrasonografía y su asociación con complicaciones vasculares en pacientes con esclerosis sistémica.",
+                "ponente": "Dra. Rosa Carina Soto Fajardo",
+                "cargo": "Investigadora en Ciencias Médicas C",
+                "hora": "12:54"
+            },
+            {
+                "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
-                "hora": "13:30"
+                "hora": "13:00"
             }
         ]
     },
@@ -441,21 +464,14 @@
         "fecha": "2026-10-30",
         "hora_inicio": "13:30",
         "hora_fin": "15:00",
-        "titulo_sesion": "Traslado al Instituto Nacional de Salud Pública",
+        "titulo_sesion": "Check-out del Hotel y Traslado al Instituto Nacional de Salud Pública",
         "actividades": []
     },
     {
         "fecha": "2026-10-30",
         "hora_inicio": "15:15",
-        "hora_fin": "16:00",
-        "titulo_sesion": "Premiación",
-        "actividades": []
-    },
-    {
-        "fecha": "2026-10-30",
-        "hora_inicio": "16:00",
         "hora_fin": "16:15",
-        "titulo_sesion": "Ceremonia de Clausura",
+        "titulo_sesion": "Ceremonia de Premiación y Clausura",
         "actividades": []
     },
     {
