@@ -54,7 +54,14 @@
         "hora_inicio": "09:00",
         "hora_fin": "10:30",
         "titulo_sesion": "Registro de participantes",
-        "actividades": []
+        "actividades": [
+            {
+                "titulo": "Ubicación: Hotel Fiesta Inn - Carretera México - Acapulco Km 88 S\/N, Delicias, 62330 Cuernavaca, Mor.)",
+                "ponente": "",
+                "cargo": "https:\/\/maps.app.goo.gl\/v7te1nGPx1sk1RbC6",
+                "hora": ""
+            }
+        ]
     },
     {
         "fecha": "2026-10-29",
@@ -465,7 +472,14 @@
         "hora_inicio": "13:30",
         "hora_fin": "15:00",
         "titulo_sesion": "Check-out del Hotel y Traslado al Instituto Nacional de Salud Pública",
-        "actividades": []
+        "actividades": [
+            {
+                "titulo": "Ubicación: Universidad No. 655 Colonia Santa María Ahuacatitlán, Cerrada Los Pinos y Caminera. Cuernavaca, Morelos, México",
+                "ponente": "",
+                "cargo": "https:\/\/maps.app.goo.gl\/6vVVJDY966W4LfWP8",
+                "hora": ""
+            }
+        ]
     },
     {
         "fecha": "2026-10-30",
