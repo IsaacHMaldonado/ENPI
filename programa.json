@@ -387,39 +387,39 @@
     },
     {
         "fecha": "2026-10-30",
-        "hora_inicio": "11:00",
-        "hora_fin": "12:00",
+        "hora_inicio": "10:45",
+        "hora_fin": "23:45",
         "titulo_sesion": "Sesión VIII - Pediatría Oncológica",
         "actividades": [
             {
                 "titulo": "Secuenciación por nanoporos guiada por CRISPR\/Cas9 para la caracterización genómica y epigenética de los genes del HLA clase I en tumores sólidos pediátricos.",
                 "ponente": "Dr. Javier Tadeo Granados Riverón",
                 "cargo": "Investigador en Ciencias Médicas D",
-                "hora": "11:00"
+                "hora": "10:45"
             },
             {
                 "titulo": "Determinación de variantes patogénicas y su asociación con los criterios de sospecha en pacientes pediátricos con síndromes de cáncer hereditario.",
                 "ponente": "Dra. Emiy Yokoyama Rebollar",
                 "cargo": "Investigadora con distinción SNII - I",
-                "hora": "11:07"
+                "hora": "10:52"
             },
             {
                 "titulo": "Identificación de variantes genéticas clínicamente relevantes y asociación con supervivencia  en niños mexicanos con leucemia linfoblástica aguda de precursores B.",
                 "ponente": "Dra. Silvia Jiménez Morales",
                 "cargo": "Investigadora en Ciencias Médicas E",
-                "hora": "11:14"
+                "hora": "10:59"
             },
             {
                 "titulo": "De la genómica a la salud pública: AKNA como potencial biomarcador pronóstico en leucemia linfoblástica aguda pediátrica.",
                 "ponente": "Dr. Vicente Madrid Marina",
                 "cargo": "Investigador Emérito en Ciencias Médicas",
-                "hora": "11:21"
+                "hora": "11:06"
             },
             {
                 "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
-                "hora": "10:30"
+                "hora": "11:07"
             }
         ]
     },
