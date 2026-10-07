@@ -388,7 +388,7 @@
     {
         "fecha": "2026-10-30",
         "hora_inicio": "10:45",
-        "hora_fin": "23:45",
+        "hora_fin": "11:45",
         "titulo_sesion": "Sesión VIII - Pediatría Oncológica",
         "actividades": [
             {
@@ -425,45 +425,45 @@
     },
     {
         "fecha": "2026-10-30",
-        "hora_inicio": "12:30",
-        "hora_fin": "13:30",
+        "hora_inicio": "12:00",
+        "hora_fin": "13:00",
         "titulo_sesion": "Sesión IX - Psiquiatría y Problemas sociales",
         "actividades": [
             {
                 "titulo": "Psiquiatría paliativa en debate: actitudes ante el cuidado y la muerte asistida en el trastorno mental grave.",
                 "ponente": "Dra. Shoshana Berenzon Gorn",
                 "cargo": "Investigadora en Ciencias Médicas E",
-                "hora": "12:30"
+                "hora": "12:00"
             },
             {
                 "titulo": "Violencia de género reportada al inicio del embarazo y desenlaces perinatales adversos: cohorte prospectiva en la Ciudad de México.",
                 "ponente": "Dra. Irma Eloisa Monroy Muñoz",
                 "cargo": "Investigadora en Ciencias Médicas C",
-                "hora": "12:36"
+                "hora": "12:06"
             },
             {
                 "titulo": "Diferencias de género y factores asociados en la normalización de la violencia sexual en adolescentes mexicanos.",
                 "ponente": "Dra. Abigail Casas Muñoz",
                 "cargo": "Investigadora en Ciencias Médicas C",
-                "hora": "12:42"
+                "hora": "12:12"
             },
             {
                 "titulo": "Impacto de la Pensión para el Bienestar de las Personas Adultas Mayores sobre la inseguridad alimentaria en México: evidencia de la Encuesta Nacional de Salud y Nutrición (ENSANUT) 2021, 2023 y 2024.",
                 "ponente": "Dra. Miriam López Teros",
                 "cargo": "Investigadora en Ciencias Médicas B",
-                "hora": "12:48"
+                "hora": "12:18"
             },
             {
                 "titulo": "Evaluación de la disminución del flujo en la arteria ulnar por ultrasonografía y su asociación con complicaciones vasculares en pacientes con esclerosis sistémica.",
                 "ponente": "Dra. Rosa Carina Soto Fajardo",
                 "cargo": "Investigadora en Ciencias Médicas C",
-                "hora": "12:54"
+                "hora": "12:24"
             },
             {
                 "titulo": "Discusión General",
                 "ponente": "",
                 "cargo": "",
-                "hora": "13:00"
+                "hora": "12:30"
             }
         ]
     },
