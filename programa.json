@@ -469,8 +469,8 @@
     },
     {
         "fecha": "2026-10-30",
-        "hora_inicio": "13:30",
-        "hora_fin": "15:00",
+        "hora_inicio": "13:00",
+        "hora_fin": "14:30",
         "titulo_sesion": "Check-out del Hotel y Traslado al Instituto Nacional de Salud Pública",
         "actividades": [
             {
@@ -485,14 +485,21 @@
         "fecha": "2026-10-30",
         "hora_inicio": "15:15",
         "hora_fin": "16:15",
-        "titulo_sesion": "Ceremonia de Premiación y Clausura",
-        "actividades": []
+        "titulo_sesion": "Ceremonia de Reconocimiento de Personas Investigadoras Eméritas, Premiación y Clausura",
+        "actividades": [
+            {
+                "titulo": "(Auditorio “Guillermo Soberón” del Instituto Nacional de Salud Pública)",
+                "ponente": "",
+                "cargo": "",
+                "hora": ""
+            }
+        ]
     },
     {
         "fecha": "2026-10-30",
-        "hora_inicio": "16:15",
-        "hora_fin": "16:30",
-        "titulo_sesion": "Fotografía Oficial del ENPI 2026",
+        "hora_inicio": "14:45",
+        "hora_fin": "15:15",
+        "titulo_sesion": "Fotografía Institucional",
         "actividades": []
     }
 ]
